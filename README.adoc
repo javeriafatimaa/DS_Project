@@ -8,3 +8,7 @@ This Snake game was developed in Java with the IDE Eclipce.
 * From the command line: run `java -jar snake.jar`
 
 image:snake_demo.png[DEMO]
+
+== Flow chart
+
+image:flowchart.png[DEMO]
